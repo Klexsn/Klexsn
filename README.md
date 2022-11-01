@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png"/>][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png"/>][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://aux.iconspalace.com/uploads/189258294686187446.png"/>][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://aux.iconspalace.com/uploads/css-3-icon-256.png"/>][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png"/>][jsplaylist]
 
