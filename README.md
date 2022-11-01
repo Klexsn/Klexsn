@@ -20,6 +20,9 @@
 <br/>
 <br/>
 
+---
+<img align="left" alt="Klexsn's Github Stats" src"https://github-readme-stats.vercel.app/api?username=Klexsn&show_icons=true&hide_border=true"/>
+
 [twitter]: https://twitter.com/Klexs2
 [instagram]: https://instagram.com/klexsflu
 [webdevplaylist]: https://www.w3schools.com/html/
