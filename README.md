@@ -1,6 +1,6 @@
 ### Hi there, I'm Berdan 👋
 
-## I'm a Student in Germany
+## I'm a Frontend Web Developer and Student in Germany
 - 📚 I'm trying to learn new Programming languages 
 - 🥅 2023 Goals: Having learned more than one programming language
 - 💻 I've been good with technology since I was little.
