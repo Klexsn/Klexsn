@@ -23,7 +23,7 @@
 ---
 <img align="left" alt="Klexsn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Klexsn&theme=gotham&show_icons=true&hide_border=true"/>
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klexsn&layout=compact"/>
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klexsn&layout=compact"/>
 
 [twitter]: https://twitter.com/Klexs2
 [instagram]: https://instagram.com/klexsflu
