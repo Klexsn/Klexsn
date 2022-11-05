@@ -1,4 +1,4 @@
-### Hi there, I'm Berdan 👋
+### Hi there 👋
 
 ## I'm a Frontend Web Developer and Student in Germany
 - 📚 I'm trying to learn new Programming languages 
